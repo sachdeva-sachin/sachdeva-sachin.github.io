@@ -11,42 +11,21 @@
     "href": "index.html",
     "title": "Sachin Sachdeva",
     "section": "",
-    "text": "Hi, I’m Sachin, a PhD candidate in Statistics.\nThis is my personal academic website built using Quarto + GitHub Pages.\n\n\nI’m in the final phase of my PhD at the University of Hyderabad.\nMy work focuses on stochastic modeling, Markov processes, Goodness of fit and statistical estimation.\n\n\n\n\nPhD in Statistics, University of Hyderabad (2020–present)\n\nM.Sc. in Statistics, XYZ University\n\nB.Sc. in Mathematics, ABC College\n\n\n\n\n\nStationary & Markovian stochastic processes\n\nGeneralized exponential distributions\n\nBivariate modeling using copulas\n\n\n\n\nYou can download my CV here. (Upload your PDF to cv/ folder.)\n\n\n\n\n\n\nSachin’s Photo"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Sachin Sachdeva",
-    "section": "",
-    "text": "I’m in the final phase of my PhD at the University of Hyderabad.\nMy work focuses on stochastic modeling, Markov processes, Goodness of fit and statistical estimation."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Sachin Sachdeva",
-    "section": "",
-    "text": "PhD in Statistics, University of Hyderabad (2020–present)\n\nM.Sc. in Statistics, XYZ University\n\nB.Sc. in Mathematics, ABC College"
+    "text": "PhD Candidate in Statistics, Department of [Department], University of Hyderabad\nI work on stochastic modelling, Markov processes, goodness-of-fit and statistical estimation. I expect to complete my PhD in [year]."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Sachin Sachdeva",
-    "section": "",
-    "text": "Stationary & Markovian stochastic processes\n\nGeneralized exponential distributions\n\nBivariate modeling using copulas"
+    "section": "Research interests",
+    "text": "Research interests\n\nStationary and Markovian processes\nGeneralized exponential distributions\nBivariate copula modelling"
   },
   {
-    "objectID": "index.html#cv",
-    "href": "index.html#cv",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
     "title": "Sachin Sachdeva",
-    "section": "",
-    "text": "You can download my CV here. (Upload your PDF to cv/ folder.)"
-  },
-  {
-    "objectID": "index.html#profile-photo",
-    "href": "index.html#profile-photo",
-    "title": "Sachin Sachdeva",
-    "section": "",
-    "text": "Sachin’s Photo"
+    "section": "Education",
+    "text": "Education\n\nPhD in Statistics, University of Hyderabad (2020–present)\nM.Sc. in [subject], [real university] ([years])\nB.Sc. in [subject], [real college] ([years])"
   },
   {
     "objectID": "about.html",

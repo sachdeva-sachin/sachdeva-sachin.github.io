@@ -1,1 +1,1 @@
-Sitemap: https://sachin-dev-labs.github.io/sachin-dev-labs/sitemap.xml
+Sitemap: https://Sachin-Stats.github.io/sitemap.xml
