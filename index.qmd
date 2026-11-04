@@ -18,7 +18,7 @@ about:
 
 PhD Candidate in Statistics, University of Hyderabad
 
-I work on stochastic modelling, Markov processes, goodness-of-fit and statistical estimation. 
+I work on stochastic modelling, Markov processes, goodness-of-fit and statistical estimation.
 
 ## Research interests
 

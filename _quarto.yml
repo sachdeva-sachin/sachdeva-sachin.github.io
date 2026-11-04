@@ -4,7 +4,6 @@ project:
 website:
   title: "Sachin Sachdeva"
   repo-url: https://github.com/sachdeva-sachin/sachdva-sachin.github.io
-  repo-actions: [edit, issue]
   navbar:
     left:
       - href: index.qmd
