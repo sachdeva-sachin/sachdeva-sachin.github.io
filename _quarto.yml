@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Sachin's Lab"
-  repo-url: https://github.com/Sachin-Stats/sachin-sachdeva.github.io
+  repo-url: https://github.com/sachdeva-sachin/sachdva-sachin.github.io
   repo-actions: [edit, issue]
   navbar:
     left:
