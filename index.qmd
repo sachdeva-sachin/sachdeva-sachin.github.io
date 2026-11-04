@@ -1,35 +1,33 @@
 ---
 title: "Sachin Sachdeva"
-format: html
+about:
+  template: trestles
+  image: profile.jpg
+  image-alt: "Portrait of Sachin Sachdeva"
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:[your university email]
+    - icon: github
+      text: GitHub
+      href: https://github.com/sachin-stats
+    - icon: file-earmark-pdf
+      text: CV
+      href: cv/Sachin_CV.pdf
 ---
 
-# 👋 Welcome
+PhD Candidate in Statistics, Department of [Department], University of Hyderabad
 
-Hi, I’m **Sachin**, a PhD candidate in Statistics.
+I work on stochastic modelling, Markov processes, goodness-of-fit and statistical estimation. I expect to complete my PhD in [year].
 
-This is my personal academic website built using **Quarto + GitHub Pages**.
+## Research interests
 
-## 🧑‍🎓 About Me
+- Stationary and Markovian processes
+- Generalized exponential distributions
+- Bivariate copula modelling
 
-I'm in the final phase of my PhD at the University of Hyderabad.\
-My work focuses on stochastic modeling, Markov processes, Goodness of fit and statistical estimation.
+## Education
 
-## 📚 Education
-
--   **PhD in Statistics**, University of Hyderabad (2020–present)\
--   **M.Sc. in Statistics**, XYZ University\
--   **B.Sc. in Mathematics**, ABC College
-
-## 🧪 Research Interests
-
--   Stationary & Markovian stochastic processes\
--   Generalized exponential distributions\
--   Bivariate modeling using copulas
-
-## 📄 CV
-
-You can [download my CV here](cv/Sachin_CV.pdf). *(Upload your PDF to `cv/` folder.)*
-
-## 📷 Profile Photo
-
-![Sachin's Photo](images/Gt%20pi.jpg){width="137"}
+- **PhD in Statistics**, University of Hyderabad (2020–present)
+- **M.Sc. in [subject]**, [real university] ([years])
+- **B.Sc. in [subject]**, [real college] ([years])
