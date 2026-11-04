@@ -7,7 +7,7 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:[your university email]
+      href: mailto:[20msps02@uohyd.ac.in]
     - icon: github
       text: GitHub
       href: https://github.com/sachin-stats
@@ -16,14 +16,14 @@ about:
       href: cv/Sachin_CV.pdf
 ---
 
-PhD Candidate in Statistics, Department of \[Department\], University of Hyderabad
+PhD Candidate in Statistics, University of Hyderabad
 
 I work on stochastic modelling, Markov processes, goodness-of-fit and statistical estimation. I expect to complete my PhD in \[year\].
 
 ## Research interests
 
 - Stationary and Markovian processes
-- Generalized exponential distributions
+- 
 - Bivariate copula modelling
 
 ## Education
