@@ -7,10 +7,10 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:[20msps02@uohyd.ac.in]
+      href: mailto:20msps02@uohyd.ac.in
     - icon: github
       text: GitHub
-      href: https://github.com/sachin-stats
+      href: https://github.com/sachdeva-sachin
     - icon: file-earmark-pdf
       text: CV
       href: cv/Sachin_CV.pdf
@@ -18,7 +18,7 @@ about:
 
 PhD Candidate in Statistics, University of Hyderabad
 
-I work on stochastic modelling, Markov processes, goodness-of-fit and statistical estimation. I expect to complete my PhD in \[year\].
+I work on stochastic modelling, Markov processes, goodness-of-fit and statistical estimation. 
 
 ## Research interests
 
@@ -29,5 +29,4 @@ I work on stochastic modelling, Markov processes, goodness-of-fit and statistica
 ## Education
 
 - **PhD in Statistics**, University of Hyderabad (2020–present)
-- **M.Sc. in \[subject\]**, \[real university\] (\[years\])
-- **B.Sc. in \[subject\]**, \[real college\] (\[years\])
+- **Integrated M.Sc. in \[Statistics\]**, \[Central University of Rajasthan\] (\[2020\])

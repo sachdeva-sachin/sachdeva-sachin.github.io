@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Sachin's Lab"
+  title: "Sachin Sachdeva"
   repo-url: https://github.com/sachdeva-sachin/sachdva-sachin.github.io
   repo-actions: [edit, issue]
   navbar:
