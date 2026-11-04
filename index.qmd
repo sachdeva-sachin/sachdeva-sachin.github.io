@@ -16,9 +16,9 @@ about:
       href: cv/Sachin_CV.pdf
 ---
 
-PhD Candidate in Statistics, Department of [Department], University of Hyderabad
+PhD Candidate in Statistics, Department of \[Department\], University of Hyderabad
 
-I work on stochastic modelling, Markov processes, goodness-of-fit and statistical estimation. I expect to complete my PhD in [year].
+I work on stochastic modelling, Markov processes, goodness-of-fit and statistical estimation. I expect to complete my PhD in \[year\].
 
 ## Research interests
 
@@ -29,5 +29,5 @@ I work on stochastic modelling, Markov processes, goodness-of-fit and statistica
 ## Education
 
 - **PhD in Statistics**, University of Hyderabad (2020–present)
-- **M.Sc. in [subject]**, [real university] ([years])
-- **B.Sc. in [subject]**, [real college] ([years])
+- **M.Sc. in \[subject\]**, \[real university\] (\[years\])
+- **B.Sc. in \[subject\]**, \[real college\] (\[years\])
